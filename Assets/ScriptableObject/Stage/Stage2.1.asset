@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 894378916ecc47f4aa8d14b651b9270b, type: 3}
+  m_Name: Stage2.1
+  m_EditorClassIdentifier: 
+  stageName: Stage 2.1
+  stageDescription: Serve sejumlah customer, bisa di set di stage 2-1, hanya akan
+    muncul sejumlah X customer (X = jumlah customer yang bisa di edit dalam editor)
+  stageTime: 999
+  customerTarget: 2
+  customerMax: 2
+  stoveSlot: 4
+  plateSlot: 2
+  customerSlot: 3
+  stageImage: {fileID: 21300000, guid: 873ddb6f5fc7e6c4e9073ae1a58f9bdb, type: 3}
