@@ -1,1 +1,19 @@
 # TstNjGmsStdo
+
+Kalau ingin mencoba stage 2.1 langsung tanpa menyelesaikan 1.1 bisa dicentang clear11 di inspector.
+Semua task wajib telah finish
+
+Fitur Optional dan Tambahan :
+Stage Timer Angka
+Stage Timer Slider
+Timer waktu masak mode slider
+Objective dengan animasi ketika kursor diatas objek(Scene ke2 icon [!])
+Fitur trash
+SFX untuk setiap klik button dan SFX finish untuk setelah selesai memasak, memberikan topping dan menyelesaikan scene 1.2, 1.3, 2.2, 2.3
+Background bisa diatur mengikuti stage
+Customer random slot/place, random customer, random menu yang diminta customer
+Cara memberikan martabak ke customer. Klik martabak yang diinginkan lalu klik customer yang dituju
+Fitur user mendapatkan gold
+Gold yang diperoleh dapat disesuaikan besarannya sesuai dengan menu yang dipesan customer
+NB : 
+Untuk ubah spesifikasi stage, menu dan customer bisa diubah di editor di ScriptableObject masing masing, bisa diganti tiap setiap ScriptableObject sesuai yang diinginkan
